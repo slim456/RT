@@ -1,0 +1,21 @@
+
+GENERAL:
+
+[-] Proteger les objets en fonction des differentes variables : BMP => path
+[-] Commenter les fonctions et mieux diviser les fichier
+[-] Redefinir la taille de l'image en fonction de la taille de la sphere pour les textures
+[-] La norme
+[-] Leaks
+
+BUG REPORT:
+
+
+Teddy:
+
+[-] texture plan
+[-] effet bois
+[-] effet marbre
+[-] bump mapping espace
+[-] bump mapping plan
+[-] brouillard lineaire/exponentiel/expoenentiel carre
+[-] skybox

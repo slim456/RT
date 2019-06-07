@@ -1,0 +1,28 @@
+scene
+{
+	camera
+	{
+		position:0;0;0;
+		direction:0;0;0;
+	}
+	objects
+	{
+		cylinder
+		{
+			shine:0;
+			position:0;0;-10;
+			direction:45;0;45;
+			rayon:1;
+			color:200;100;50;
+		}
+	}
+	lights
+	{
+		light
+		{
+			intensity:1000;
+			position:0;0;10;
+			color:0;0;0;
+		}
+	}
+}

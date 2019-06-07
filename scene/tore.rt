@@ -1,0 +1,32 @@
+scene
+{
+	camera
+	{
+		position:0;0;0;
+		direction:0;0;0;
+	}
+	objects
+	{
+		quadric
+		{
+			type:sphere;
+			rayon:2;
+			shine:0;
+			texture:skybox;
+			path:./ressources/bmp/skybox.bmp;	
+			specularity:120;
+			direction:;0;0;-90;
+			position:0;0;0;
+			color:175;0;0;
+		}
+	}
+	lights
+	{
+		light
+		{
+			intensity:600;
+			position:0;0;5;
+			color:200;200;200;
+		}
+	}
+}
